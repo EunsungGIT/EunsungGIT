@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&type=rect&text=RRR&animation=twinkling&fontColor=000000&color=timeGradient&theme=tokyonight)
 
-<h3 align="center">개린이 [개발자 어린이라는 뜻.]</h3>
+<h3 align="center">개린이 [개발자 어린이라는 뜻]</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
