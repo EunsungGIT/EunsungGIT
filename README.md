@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=WEB DESIGN&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=RRR&animation=fadeIn)
 
 <h1 align="center">Hi 👋, I'm 김은성</h1>
 <h3 align="center">나다:muscle:</h3>
