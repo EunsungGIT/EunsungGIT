@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm 김은성</h1>
-<h3 align="center">나다</h3>
+<h3 align="center">나다:muscle:</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
