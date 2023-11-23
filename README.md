@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=recttext=RRR&animation=scaleIn&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?&type=rect&text=RRR&animation=scaleIn&fontColor=000000)
 
 <h1 align="center">Hi 👋, I'm 김은성</h1>
 <h3 align="center">나다:muscle:</h3>
