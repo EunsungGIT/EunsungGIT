@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=rect&text=RRR&animation=twinkling&fontColor=000000&color=timeGradient&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?&type=rect&text=SKRR..&animation=twinkling&fontColor=000000&color=timeGradient&theme=tokyonight)
 
 <h3 align="center">I AM 개발자에요.</h3>
 
