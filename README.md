@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?&type=rect&text=SKRR..&animation=twinkling&fontColor=000000&color=timeGradient&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?&type=rect&text=Happy Hacking!&animation=twinkling&fontColor=000000&color=timeGradient&theme=tokyonight)
 
-<h3 align="center">I AM 개발자에요.</h3>
+<h3 align="center">개발자</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
