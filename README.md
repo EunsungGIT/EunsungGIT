@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&type=rect&text=CODE&animation=twinkling&fontColor=000000&color=timeGradient&theme=tokyonight)
 
-<h3 align="center">Happy Hacking!</h3>
+<h3 align="center">HELLO</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
