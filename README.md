@@ -9,15 +9,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
 <br/>
 
 ## 📝 About Me
-- 🔭 **Project** : 현재 여행 탐색 서비스 **[Tourch]** 개발 및 고도화 중
-- 🎨 **Skill** : 디자인 툴과 프론트엔드 프레임워크를 결합한 고퀄리티 UI 구현
-- 💬 **Interest** : 웹 성능 최적화, 컴포넌트 설계, UI/UX 디자인 트렌드
+- 🔭 **Current Focus** : **React, TypeScript, Next.js** 심화 학습 및 모던 프론트엔드 생태계 탐구
+- 🎨 **Skill** : 디자인 감각을 겸비하여 기획부터 고퀄리티 UI 구현까지 가능한 프론트엔드 개발자
+- 💬 **Interest** : 선언적 프로그래밍, 안정적인 타입 설계, 그리고 사용자 경험(UX) 최적화
 
 <br/>
 
@@ -59,16 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunsungGIT&layout=compact&theme=radical&font_color=F7323F&icon_color=F7323F&hide_border=true" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EunsungGIT&theme=radical&fire=F7323F&ring=F7323F&hide_border=true" width="94%" />
-</p>
-
 <br/>
 
-## 🏁 Hit Counter
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunsungGIT&count_bg=%23F7323F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" />
-</p>
-
----
 <p align="center">Copyright © 2025 Eunsung. All rights reserved.</p>
